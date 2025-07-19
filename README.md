@@ -2,7 +2,7 @@ AryaJobs – MERN Stack Job Portal
 AryaJobs is a full-stack job portal built using the MERN stack. It allows users to register as job seekers or recruiters, apply to jobs, manage profiles, and post job listings. The project aims to mimic core features of modern job platforms with a clean UI and scalable architecture.
 
 🔗 Live Links
-Frontend: https://aryajobs.vercel.app
+Frontend: https://aryajobs-frontend.vercel.app/ 
 
 Backend: https://aryajobs-backend.onrender.com
 
