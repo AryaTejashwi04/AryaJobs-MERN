@@ -4,7 +4,7 @@ AryaJobs is a full-stack job portal built using the MERN stack. It allows users 
 🔗 Live Links
 Frontend: https://aryajobs.vercel.app
 
-Backend: https://aryajobs-api.onrender.com
+Backend: https://aryajobs-backend.onrender.com
 
 folder Structure
 bash
