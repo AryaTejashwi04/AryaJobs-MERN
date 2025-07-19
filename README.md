@@ -6,7 +6,7 @@ Frontend: https://aryajobs.vercel.app
 
 Backend: https://aryajobs-api.onrender.com
 
-older Structure
+folder Structure
 bash
 Copy
 Edit
@@ -74,20 +74,10 @@ Copy
 Edit
 cd backend
 npm install
-# Create a .env file (see below)
-npm run dev
-3. Setup Frontend
-bash
-Copy
-Edit
-cd ../frontend
-npm install
-npm run dev
-Environment Variables
-Backend .env example:
-ini
-Copy
-Edit
+
+
+
+
 PORT=3001
 MONGODB_URI=your_mongo_uri
 JWT_SECRET=your_jwt_secret
